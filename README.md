@@ -1,4 +1,4 @@
 # The-Sieving-Wonders
-Method to improve the sorting of microspheres used in Biomedical Research
+Method to improve sorting of microspheres used in Biomedical Research controlling for aggregation conditions 
 
-Includes proposed solutions, methodology and soon the results of the project.
+Includes proposed solutions, methodology and the results of the project.
