@@ -1,5 +1,6 @@
-# The-Sieving-Wonders
+# The-Sieving-Wonders 
 Victoria Health Hackathon at Fort Tectoria, September 28-30, 2018
+Project Participants: Laura Lavallée | Alyssa Zicari | Anna Fei | Jose Guerrero | Noushin Nabavi
 
 # Title
 Development of an effective sieving method for the size sorting of drug releasing microspheres for stem cell-based tissue engineering applications
@@ -16,4 +17,3 @@ The challenge here is to find a more efficient and effective method of size sepa
 Dr. Willerth (willerth@uvic.ca) serves as a mentor along with Dr. Akbari (makbari@uvic.ca) and Laura De la Vega (laura.dlvr@gmail.com) on this project and donate microspheres as an in-kind contribution, including supplies to develop their filtration mechanisms and  microspheres for sorting to test devices.
 
 
-Project Participants: Laura Lavallée | Alyssa Zicari | Anna Fei | Jose Guerrero | Noushin Nabavi
