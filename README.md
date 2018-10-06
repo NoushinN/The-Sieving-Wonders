@@ -13,7 +13,7 @@ The size of the microspheres is an important factor for both controlling the rat
 The challenge here is to find a more efficient and effective method of size separating drug releasing microspheres. Such a solution would greatly benefit the lab by reducing time spent filtering as well as raising yield.
 
 # In-kind support
-Dr. Willerth (willerth@uvic.ca) will serve as a mentor along with Dr. Akbari (makbari@uvic.ca) and Laura De la Vega (laura.dlvr@gmail.com) on this project and donate microspheres as an in-kind contribution. She will also support each team with up to $300 worth of supplies to develop their filtration mechanisms and will provide microspheres for sorting to test devices.
+Dr. Willerth (willerth@uvic.ca) serves as a mentor along with Dr. Akbari (makbari@uvic.ca) and Laura De la Vega (laura.dlvr@gmail.com) on this project and donate microspheres as an in-kind contribution, including supplies to develop their filtration mechanisms and  microspheres for sorting to test devices.
 
 
 Project Participants: Laura Lavallée | Alyssa Zicari | Anna Fei | Jose Guerrero | Noushin Nabavi
