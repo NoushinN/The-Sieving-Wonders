@@ -13,6 +13,10 @@ The size of the microspheres is an important factor for both controlling the rat
 # Challenge
 The challenge here is to find a more efficient and effective method of size separating drug releasing microspheres. Such a solution would greatly benefit the lab by reducing time spent filtering as well as raising yield.
 
+# Our Solution
+[Team presentation can be found here](https://github.com/NoushinN/The-Sieving-Wonders/blob/master/Victoria_Health_Hackathon_2018.pdf)
+[Arduino operational codes are here](https://github.com/NoushinN/The-Sieving-Wonders/tree/master/Arduino)
+
 # In-kind support
 Dr. Willerth (willerth@uvic.ca) serves as a mentor along with Dr. Akbari (makbari@uvic.ca) and Laura De la Vega (laura.dlvr@gmail.com) on this project and donate microspheres as an in-kind contribution, including supplies to develop their filtration mechanisms and  microspheres for sorting to test devices.
 
