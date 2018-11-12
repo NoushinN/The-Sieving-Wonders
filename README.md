@@ -18,6 +18,6 @@ The challenge here is to find a more efficient and effective method of size sepa
 2. [**Arduino operational codes**](https://github.com/NoushinN/The-Sieving-Wonders/tree/master/Arduino)
 
 # In-kind support
-Dr. Willerth (willerth@uvic.ca) serves as a mentor along with Dr. Akbari (makbari@uvic.ca) and Laura De la Vega (laura.dlvr@gmail.com) on this project and donate microspheres as an in-kind contribution, including supplies to develop their filtration mechanisms and  microspheres for sorting to test devices.
+Dr. Willerth (willerth@uvic.ca) serves as a mentor along with Dr. Akbari (makbari@uvic.ca) and Laura De la Vega (laura.dlvr@gmail.com) on this project and donate microspheres as an in-kind contribution, including supplies to develop their filtration mechanisms and  microspheres for sorting to test devices, and MakerSpace usage at Camosun College in Victoria.
 
 
