@@ -14,10 +14,12 @@ The size of the microspheres is an important factor for both controlling the rat
 The challenge here is to find a more efficient and effective method of size separating drug releasing microspheres. Such a solution would greatly benefit the lab by reducing time spent filtering as well as raising yield.
 
 # Our Solution
+We proposed a sieving filter which was built with 3D printing at the MakerSpace. We mobilized it using an arduino on a rotating plate. Please see our team's presentation and codes for operationalizing the arduino below:  
+
 1. [**Team presentation**](https://github.com/NoushinN/The-Sieving-Wonders/blob/master/Victoria_Health_Hackathon_2018.pdf)  
 2. [**Arduino operational codes**](https://github.com/NoushinN/The-Sieving-Wonders/tree/master/Arduino)
 
 # In-kind support
-Dr. Willerth (willerth@uvic.ca) serves as a mentor along with Dr. Akbari (makbari@uvic.ca) and Laura De la Vega (laura.dlvr@gmail.com) on this project and donate microspheres as an in-kind contribution, including supplies to develop their filtration mechanisms and  microspheres for sorting to test devices, and MakerSpace usage at Camosun College in Victoria.
+Dr. Willerth (willerth@uvic.ca) was our generous mentor along with Dr. Akbari (makbari@uvic.ca) and Laura De la Vega (laura.dlvr@gmail.com) on this project who donated microspheres and filter supplies to develop our own filtration mechanisms. We thank MakerSpace for letting us use their space at Camosun College.
 
 
